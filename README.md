@@ -1,16 +1,16 @@
-## Hi there 👋
+# Samuel Vargas
 
-<!--
-**shinji585/shinji585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Engineering Student → DevOps Practitioner → Theoretical CS Researcher**
 
-Here are some ideas to get you started:
+Building a career path that connects practical software engineering with advanced theoretical research. Currently developing foundational skills in systems engineering, with planned progression through DevOps roles to inform and prepare for future contributions to theoretical computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Codewars Stats
+![Codewars](https://www.codewars.com/users/shinji585/badges/large)
+
+## 🛠️ Skills
+- **Python**
+- **MongoDB**
+- **Scikit-Learn**
+- **Computational Mathematics**
+- **DevOps**
+- **Theoretical Computer Science**
