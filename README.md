@@ -1,26 +1,72 @@
 # Samuel Vargas
 
-**Systems Engineering Student → DevOps Practitioner → Theoretical CS Researcher**
+**Systems Engineering Student → DevOps Practitioner → Theoretical CS Researcher**  
+*Bridging practical software engineering with advanced computational theory*
 
-<img src="https://i.pinimg.com/1200x/8e/fd/a2/8efda2d82951dbc16c465a1f612d93a4.jpg" width="600" height="300" />
+---
 
-Building a career path that connects practical software engineering with advanced theoretical research. Currently developing foundational skills in systems engineering, with planned progression through DevOps roles to inform and prepare for future contributions to theoretical computer science.
+## 🚀 About Me
 
-## 📊 GitHub Statistics
+I'm a Systems Engineering student building a unique career path that connects industry experience with academic research. My journey is designed to ground theoretical computer science in real-world software engineering practice, with a focus on:
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinji585&show_icons=true&theme=dark)
+- **Foundational Systems Knowledge** - Building robust engineering fundamentals
+- **DevOps & Infrastructure** - Understanding large-scale system operations
+- **Theoretical Research** - Advancing computational theory and algorithms
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&layout=compact&theme=dark)
+---
 
-## 🏆 Codewars Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinji585&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Code Excellence
+
+<div align="center">
 
 ![Codewars](https://www.codewars.com/users/shinji585/badges/large)
 
-## 🛠️ Skills
+</div>
 
-- **Python**
-- **MongoDB**
-- **Scikit-Learn**
+---
+
+## 🛠️ Technical Stack
+
+### **Programming & Data**
+- **Python** - Data Science & Algorithms
+- **MongoDB** - Database Systems
+- **Scikit-Learn** - Machine Learning
+
+### **Specializations**
 - **Computational Mathematics**
-- **DevOps**
+- **DevOps Engineering**
 - **Theoretical Computer Science**
+
+### **Research Interests**
+- Algorithm Design & Analysis
+- Computational Complexity
+- Distributed Systems Theory
+- Mathematical Foundations of Computing
+
+---
+
+## 📈 Current Focus
+
+- Advancing my Systems Engineering degree
+- Building practical DevOps experience
+- Preparing for graduate research in theoretical CS
+- Contributing to meaningful open-source projects
+
+---
+
+<div align="center">
+
+*"Theoretical computer science isn't just about abstract concepts—it's about building the fundamental tools that shape our digital world."*
+
+</div>
