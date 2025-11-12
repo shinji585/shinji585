@@ -12,6 +12,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
     - name: Checkout repository
@@ -25,10 +27,14 @@ jobs:
           dist/github-contribution-grid-snake.svg
           dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-    - name: Push to output branch
-      uses: crazy-max/ghaction-github-pages@v3
-      with:
-        target_branch: output
-        build_dir: dist
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Deploy to output branch
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        git checkout --orphan output
+        git rm -rf .
+        cp -r dist/* .
+        git add .
+        git commit -m "Update snake animation"
+        git push origin output --force
