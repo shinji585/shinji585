@@ -1,7 +1,13 @@
+<div align="center">
+  
+<img src="https://i.pinimg.com/1200x/8e/fd/a2/8efda2d82951dbc16c465a1f612d93a4.jpg" width="100%" height="300" />
+
 # Samuel Vargas
 
 **Systems Engineering Student → DevOps Practitioner → Theoretical CS Researcher**  
 *Bridging practical software engineering with advanced computational theory*
+
+</div>
 
 ---
 
