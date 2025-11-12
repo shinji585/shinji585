@@ -40,6 +40,16 @@ I'm a Systems Engineering student building a unique career path that connects in
 
 ---
 
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=shinji585&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
 ## 🏆 Code Excellence
 
 <div align="center">
@@ -93,10 +103,11 @@ I'm a Systems Engineering student building a unique career path that connects in
 
 <div align="center">
 
-| Academic | Professional | Research |
-|:--------:|:------------:|:--------:|
-| 📚 Advancing Systems Engineering Degree | 🛠️ Building DevOps Experience | 🎓 Preparing for Graduate Research |
+| Now (Academic) | Near Future (Professional) | Future (Research) |
+|:--------------:|:--------------------------:|:-----------------:|
+| 📚 Advancing Systems Engineering Degree | 🛠️ Building DevOps Experience | 🎓 Graduate Research Preparation |
 | 🔬 Theoretical Foundations | ⚡ Infrastructure Automation | 📐 Algorithm Development |
+| 🏫 University Projects | 🏢 Industry Internships | 🔍 Research Publications |
 
 </div>
 
