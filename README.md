@@ -32,13 +32,10 @@ I'm a Systems Engineering student building a unique career path that connects in
 
 <div align="center">
 
-### GitHub Analytics
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinji585&show_icons=true&theme=radical&hide_border=false)
 
-### Coding Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shinji585&theme=radical&hide_border=false)
 
-### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&theme=radical&hide_border=false&layout=compact)
 
 </div>
