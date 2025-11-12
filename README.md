@@ -32,11 +32,9 @@ I'm a Systems Engineering student building a unique career path that connects in
 
 <div align="center">
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinji585&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=00BFFF&text_color=7CFC00)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinji585&show_icons=true&theme=radical&hide_border=false)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinji585&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&theme=radical&hide_border=false&layout=compact&bg_color=0d1117&title_color=00BFFF&text_color=7CFC00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&theme=radical&hide_border=false&layout=compact)
 
 </div>
 
