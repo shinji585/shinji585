@@ -30,13 +30,9 @@ I'm a Systems Engineering student building a unique career path that connects in
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinji585&show_icons=true&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&theme=radical&hide_border=false&layout=compact)
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=shinji585&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shinji585&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
