@@ -40,6 +40,36 @@ I'm a Systems Engineering student building a unique career path that connects in
 
 ---
 
+## 📁 Repository Languages
+
+<div align="center">
+
+### 🏗️ My Projects by Technology Stack
+
+**🤖 Python & Data Science** (73.18%)
+- Data analysis & machine learning projects
+- Libraries: Scikit-learn, Pandas, NumPy
+- Tools: PyCharm, Conda, Venv, Jupyter Notebook
+
+**🌐 Web Development** (13.26% HTML + 3.81% JS)  
+- Frontend applications and web projects
+- Core technologies: HTML, CSS, JavaScript
+- Modern web standards
+
+**⚙️ Backend & Systems** (47.74% Java)
+- Java applications and system tools
+- Enterprise-level development
+- System architecture projects
+
+**🐳 DevOps & Infrastructure** (1.49% Docker)
+- Containerization and automation
+- CI/CD pipelines
+- Infrastructure configuration
+
+</div>
+
+---
+
 ## 🏅 GitHub Achievements
 
 <div align="center">
@@ -68,13 +98,14 @@ I'm a Systems Engineering student building a unique career path that connects in
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 
 </div>
 
 ### **⚡ DevOps & Infrastructure**
 <div align="center">
   
-<img src="https://img.shields.io/badge/DevOps-00BFFF?style=for-the-badge&logo=azure-devops&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -84,7 +115,6 @@ I'm a Systems Engineering student building a unique career path that connects in
 ### **📐 Computational Mathematics**
 <div align="center">
   
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
