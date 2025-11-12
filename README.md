@@ -28,45 +28,11 @@ I'm a Systems Engineering student building a unique career path that connects in
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-  
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinji585&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000,0d0d0d,1a1a1a&title_color=00BFFF&icon_color=7CFC00&text_color=ffffff)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&layout=compact&theme=dark&hide_border=true&bg_color=000000,0d0d0d,1a1a1a&title_color=00BFFF&text_color=ffffff)
-
-</div>
-
----
-
-## 📁 Repository Languages
-
-<div align="center">
-
-### 🏗️ My Projects by Technology Stack
-
-**🤖 Python & Data Science** (73.18%)
-- Data analysis & machine learning projects
-- Libraries: Scikit-learn, Pandas, NumPy
-- Tools: PyCharm, Conda, Venv, Jupyter Notebook
-
-**🌐 Web Development** (13.26% HTML + 3.81% JS)  
-- Frontend applications and web projects
-- Core technologies: HTML, CSS, JavaScript
-- Modern web standards
-
-**⚙️ Backend & Systems** (47.74% Java)
-- Java applications and system tools
-- Enterprise-level development
-- System architecture projects
-
-**🐳 DevOps & Infrastructure** (1.49% Docker)
-- Containerization and automation
-- CI/CD pipelines
-- Infrastructure configuration
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=shinji585&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shinji585&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinji585&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -74,7 +40,7 @@ I'm a Systems Engineering student building a unique career path that connects in
 
 <div align="center">
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=shinji585&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15)
+![Achievements](https://github-profile-trophy.vercel.app/?username=shinji585&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 </div>
 
