@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <!-- Snake Animation at the TOP -->
 ![Snake animation](https://github.com/shinji585/shinji585/blob/output/github-contribution-grid-snake.svg)
 
